@@ -1,4 +1,4 @@
-# sample2
+# getStudentGrades
 
 A new Flutter project.
 
